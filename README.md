@@ -2,14 +2,13 @@
 
 # ANALYSIS AND REPORT OF LOAN DATA
 
-**OVERVIEW
-**
+**OVERVIEW**
+
 This report presents a comprehensive analysis of a loan application dataset, with the goal of identifying key trends, influencing factors, and potential areas for improvement in the loan approval process. The dataset captures various applicant attributes including gender, marital status, education, income levels, employment status, credit history, and more.
 
 The objective is to extract meaningful insights that can support more informed, data-driven lending decisions and improve the efficiency and fairness of loan evaluations.
 
-**DATASET SUMMARY
-**
+**DATASET SUMMARY**
 
 The dataset includes the following critical variables:
 - Gender  
